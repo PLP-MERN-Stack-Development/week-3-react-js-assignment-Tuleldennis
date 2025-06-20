@@ -77,6 +77,7 @@ JSONPlaceholder - A free fake REST API for testing and prototyping.
 📸 Screenshots
 
 (public/screenshots/screenshot1.png)
+
 (public/screenshots/screenshot2.png)
 
 👨‍🎓 Author
